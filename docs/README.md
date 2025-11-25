@@ -27,6 +27,24 @@ Open AIダッシュボードにアクセスして、BillingのCredit残高がゼ
 
 ChatGPTのsearch、Code Interpreterを使用して、アプリ上で高度な検索・処理を実行できます。
 
+## MCP
+
+MCPのトグルをオンにして、LabelとURLを入力する。
+
+### リモートMCPの場合
+
+Ex. Deepwikiの場合
+
+Label: Deepwiki
+URL: https://mcp.deepwiki.com/sse
+
+![alt text](image-18.png)
+
+Ex. AWS Knowledge MCPの場合
+
+Label: AWS Knowledge
+URL: https://knowledge-mcp.global.api.aws
+
 ## Google統合
 
 ### Google Cloudでの設定
